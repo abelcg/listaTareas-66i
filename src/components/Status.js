@@ -1,7 +1,7 @@
 import React from 'react';
 import { Alert } from 'react-bootstrap';
 
-const Status = ({ classroom , enable }) => {
+const Status = ({ classroom }) => {
   return (
     <div>
       {/* { enable ?  <Alert variant='info'>

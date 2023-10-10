@@ -3,7 +3,7 @@ import Status from './Status';
 
 const Heading = (props) => {
    // console.log(props);
-   /*  const { classroom, enable } = props;
+  /*   const { classroom, enable } = props;
     console.log(classroom , enable ); */
     return (
         <>
